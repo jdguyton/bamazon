@@ -26,12 +26,12 @@ UPDATE products SET product_sales=<value> WHERE item_id=<item_id>;
 
 _Bamazon Customer JS_
 
-<img src="https://streamable.com/i4a21" width="600px"/>
+https://streamable.com/i4a21
 
 _Bamazon Manager JS_
 
-<img src="https://streamable.com/gvr32" width="600px"/>
+https://streamable.com/gvr32
 
 _Bamazon Supervisor JS_
 
-<img src="https://streamable.com/b7j2w" width="600px"/>
+https://streamable.com/b7j2w
